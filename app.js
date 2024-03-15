@@ -58,7 +58,7 @@ function validateInputs(){
     }
     else{
         setSuccess(cpassword)
-        window.location.href='List.html';
+        window.location.href='list.html';
     }
     return success;
 }
